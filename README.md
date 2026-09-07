@@ -1,5 +1,4 @@
 # Lab-Exercise-6
-# Lab-Exercise-6
 
 ## NAME : SWATHI S
 ## REGISTER NUMBER : 212225040449
